@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Pauleena Phan</h1>
+<h1 align="center">I'm Pauleena Phan</h1>
 <h3 align="center">I want to become a web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pauleenaphan&label=Profile%20views&color=0e75b6&style=flat" alt="pauleenaphan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pauleenaphan" alt="pauleenaphan" /></a> </p>
 
 - 🔭 I’m currently working on **MentalMe**
 
@@ -11,7 +9,7 @@
 
 - 💬 Ask me about **Cats**
 
-- 📫 How to reach me **Pauleena2002@gmail.com**
+- 📫 You can reach me at **Pauleena2002@gmail.com**
 
 - ⚡ Fun fact **Orange cats are my favorite colored cats**
 
