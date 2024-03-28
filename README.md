@@ -1,7 +1,9 @@
 <h1 align="center">Pauleena Phan</h1>
-<h3 align="center">I want to become a web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pauleenaphan&label=Profile%20views&color=0e75b6&style=flat" alt="pauleenaphan" /> </p>
+<p> 
+  Hi there! I'm Pauleena, about to graduate from CSUF. While I started with computer security, I found my love for coding and creating things. I'm still learning, but I'm eager to meet new people and grow in the field. Outside of tech, I enjoy drawing, painting, and   watching sunsets or sunrises. I've got a thing for orange cats—they're awesome. Fried chicken is also really good.
+</p>
 
 - 🔭 I’m currently working on **MentalMe**
 
