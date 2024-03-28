@@ -8,6 +8,7 @@
 <p> I am currently working on a project called MentalMe. It will be a mobile app that reminds users to take care of their health and journal their feelings. </p>
 
 📫 You can reach me at **Pauleena2002@gmail.com**
+
 ⚡ Fun fact **Orange cats are my favorite colored cats**
 
 <h3 align="left">Connect with me:</h3>
