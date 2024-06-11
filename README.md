@@ -4,8 +4,6 @@
   Hi there! I'm Pauleena, about to graduate from CSUF. While I started with computer security, I found my love for coding and creating things. I'm still learning, but I'm eager to meet new people and grow in the field. Outside of tech, I enjoy drawing, painting, and   watching sunsets or sunrises. I've got a thing for orange cats—they're awesome. Fried chicken is also really good.
 </p>
 
-<p> I am currently working on a project called MentalMe. It will be a mobile app that reminds users to take care of their health and journal their feelings. </p>
-
 📫 You can reach me at **Pauleena2002@gmail.com**
 
 ⚡ Fun fact **Orange cats are my favorite colored cats**
