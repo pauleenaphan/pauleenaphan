@@ -3,8 +3,9 @@
   <img src="https://komarev.com/ghpvc/?username=pauleenaphan&label=Profile%20views&color=0e75b6&style=flat" alt="pauleenaphan" />
 </p>
 
+<h3 align="left"> About Me: </h3>
 <p> 
-  Hi there! I'm Pauleena, I got my bachelors in computer science @ CSUF and am looking for full time opportunities. While I started with an interest in computer security, I found my love for coding and creating things. I'm still learning, but I'm eager to meet new people and grow in the field. Outside of tech, I enjoy drawing, painting, and watching sunsets or sunrises. I've got a thing for orange cats—they're awesome. Fried chicken is also really good.
+  Hi there! I'm Pauleena, I got my bachelors in computer science @ CSUF and am looking for full time opportunities. While I started with an interest in computer security, I found my love for coding and creating things. I'm still learning, but I'm eager to meet new people and grow in the field. Outside of tech, I enjoy arts and craft, playing games, and looking at nature. Orange cats and fried chicken are my favorite.
 </p>
 
 <h3 align="left">Contact Me:</h3>
@@ -28,7 +29,7 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=blue&labelColor=black&color=blue&logoBackground=blue" alt="Visual Studio Code logo"/>
   <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black&logoBackground=black" alt="GitHub logo"/>
 </p>
+<br>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pauleenaphan&show_icons=true&locale=en" alt="pauleenaphan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pauleenaphan&show_icons=true&locale=en&theme=merko" alt="pauleenaphan" /></p>
 
