@@ -8,13 +8,6 @@
   Hi there! I'm Pauleena, I got my bachelors in computer science @ CSUF and am looking for full time opportunities. While I started with an interest in computer security, I found my love for coding and creating things. I'm still learning, but I'm eager to meet new people and grow in the field. Outside of tech, I enjoy arts and craft, playing games, and looking at nature. Orange cats and fried chicken are my favorite.
 </p>
 
-<h3 align="left">Contact Me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/pauleena-phan-832a62247/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=blue&labelColor=black&color=blue&logoBackground=blue" alt="LinkedIn logo"/>
-</a>
-<img src="https://img.shields.io/badge/Pauleena2002@gmail.com-lightgrey?style=for-the-badge&logo=gmail&logoColor=red&labelColor=black&color=red&logoBackground=red" alt="Email logo"/>
-  
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
