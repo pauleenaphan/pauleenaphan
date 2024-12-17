@@ -24,5 +24,8 @@
 </p>
 <br>
 
+[![Buy me a Kofi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/pauleenaphan)
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pauleenaphan&show_icons=true&locale=en&theme=merko" alt="pauleenaphan" /></p>
 
